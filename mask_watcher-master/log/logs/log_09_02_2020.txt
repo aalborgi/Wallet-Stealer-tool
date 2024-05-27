@@ -1,0 +1,1 @@
+[2020-02-09 18:57:53,310] - [watcher.py file line:37] - INFO: checking https://item.jd.com/100006784140.html / None
